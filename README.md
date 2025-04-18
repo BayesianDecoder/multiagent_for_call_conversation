@@ -80,3 +80,28 @@ python fina_pipeline.py
 
   ### 🧰 Additional Tips
 Ensure GPU or MPS support is available if running Whisper for faster transcription
+
+
+ ## 🧠 Code Explanation
+
+📄 [Source Code Explained](https://drive.google.com/file/d/1B5dJjE80i3BDCdL-c1UIGw0oXeGU4H3A/view?usp=sharing)
+
+## ✅ Test Results
+
+Each test was conducted using an `.mp3` audio file fed into the pipeline. Below are links to sample outputs for each language:
+
+### 🇺🇸 English Audio Summary
+
+📄 [View English Test Result](https://drive.google.com/file/d/1bHNYg2rYxTm6rbFOpUwEJ-fFk42Zy2O2/view?usp=sharing)
+
+### 🇭🇰 Cantonese Audio Summary
+
+📄 [View Cantonese Test Result](https://drive.google.com/file/d/1TZaeyW2g4xpfWxXDgFzWIl-jYIqo3d1z/view?usp=sharing)
+
+### 🇨🇳 Mandarin Audio Summary
+
+📄 [View Mandarin Test Result](https://drive.google.com/file/d/1B6FbuHcgns3efBtwU_I-1Uq3CrowFc5s/view?usp=sharing)
+
+---
+
+
